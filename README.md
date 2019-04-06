@@ -16,11 +16,11 @@ for the ERICA is my project mentor.
 
 ## Computer Vision
 
-Memtor by Xin Yan for the Computer Vision.
+2019, guide by Xin Yan for the Computer Vision.
 
 ## Dialog
 
-Working with Doctor Rony Novianto on Samll Talk project.
+2019, work with Doctor Rony Novianto on Samll Talk project.
 
 ## XAI
 
