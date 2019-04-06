@@ -11,7 +11,7 @@ It is my first step in the AI industry.
 ## Robot AI
 
 In 2018, I joined Huawei to work on a robot project. I learn more about the Robot AI, 
-it is more complex then just a speaker. Doctor Dylan Glas who was the lead architect 
+it is more complex than smart speaker. Doctor Dylan Glas who was the lead architect 
 for the ERICA is my project mentor.
 
 ## Computer Vision
