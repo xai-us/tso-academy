@@ -55,7 +55,7 @@ export default function Top10AICompanies() {
 
   return (
     <div className="container">
-      <h1>Top 10 AI Companies</h1>
+      <h2>Top 10 AI Companies</h2>
       <p>
         OpenAI GPT suggested following list of the top 10 AI companies in the
         world.
