@@ -31,3 +31,6 @@ Recently we are facing a problem with explaining the model of AI, so here are fe
 3. LRP (layer-wise relevance propagation)
 
 But XAI is still pretty new, I haven't find some real practice project for the theory yet.
+
+## GenAI Products
+* https://www.dialpad.com/pricing/
