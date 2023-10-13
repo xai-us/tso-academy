@@ -12,15 +12,15 @@ It is my first step in the AI industry.
 
 ### Huawei Technologies
 
-* Robot AI
+* Robot AI  
     In 2018, I joined Huawei to work on a robot project. I learn more about the Robot AI, 
     it is more complex than smart speaker. Dr. Dylan Glas who was the lead architect 
     for the ERICA is my project mentor.
 
-* Computer Vision
+* Computer Vision  
     2019, guide by Xin Yan for the Computer Vision.
 
-* Dialog
+* Dialog  
     2019, work with Doctor Rony Novianto on Samll Talk project.
 
 ### XAI
