@@ -25,8 +25,11 @@ It is my first step in the AI industry.
 
 ### OpenAI
 
-* 2015 Founded
-* 2017 30M Cost
+* 2015 Founded, CEO with Greg Brockman
+* 2017 30M Cost, beat the first player in game DOTA2
+* 2018 Sam Altman became president of OpenAI, Elon Musk quite
+* 2019 Sam Altman became CEO of OpenAI, Microsoft invested $1B
+* 2023 until 2023, Microsoft invested OpenAI for $2B, and later in the year invitested another 10B 
 
 ### XAI
 
