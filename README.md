@@ -23,6 +23,11 @@ It is my first step in the AI industry.
 * Dialog  
     2019, work with Doctor Rony Novianto on Samll Talk project.
 
+### OpenAI
+
+* 2015 Founded
+* 2017 30M Cost
+
 ### XAI
 
 Recently we are facing a problem with explaining the model of AI, so here are few solutions.
