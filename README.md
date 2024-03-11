@@ -46,6 +46,13 @@ But XAI is still pretty new, I haven't find some real practice project for the t
 * https://github.com/zenml-io/zenml
 * https://www.dialpad.com/pricing/
 
+## Influencer
+
+* [Yann LuCun](https://www.linkedin.com/in/yann-lecun/)
+* [Andrew Ng](https://www.andrewng.org/)
+* [Feifei Li](https://profiles.stanford.edu/fei-fei-li)
+* [Mu Li](https://www.cs.cmu.edu/~muli/)
+
 ## Reference
 
 * https://surpriselib.com/
