@@ -48,10 +48,10 @@ But XAI is still pretty new, I haven't find some real practice project for the t
 
 ## Influencer
 
-* [Yann LuCun](https://www.linkedin.com/in/yann-lecun/)
-* [Andrew Ng](https://www.andrewng.org/)
-* [Feifei Li](https://profiles.stanford.edu/fei-fei-li)
-* [Mu Li](https://www.cs.cmu.edu/~muli/)
+* [Yann LuCun](https://www.linkedin.com/in/yann-lecun/), Meta
+* [Andrew Ng](https://www.andrewng.org/), Google, Baidu, Stanford
+* [Feifei Li](https://profiles.stanford.edu/fei-fei-li), Google, Stanford
+* [Mu Li](https://www.cs.cmu.edu/~muli/), Amazon, Stanford
 
 ## Reference
 
