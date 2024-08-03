@@ -7,6 +7,7 @@ import { Children } from "react";
 import MainLayout from "./components/layouts/MainLayout";
 import Home from "./pages/Home";
 import SignUpPage from "./pages/SignUp";
+import TsoAIPage from "./pages/TsoAI";
 
 function DummyComponent() {
   return <div>Dummy</div>;
@@ -19,6 +20,10 @@ const router = createHashRouter([
     children: [
       { path: "/", element: <Home /> },
       { path: "/signup", element: <SignUpPage /> },
+      {
+        path: "/tsoai",
+        element: <TsoAIPage />,
+      },
       { path: "/dummy", element: <DummyComponent /> },
       {
         path: "/article/top-10-ai-companies",
