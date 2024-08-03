@@ -5,11 +5,13 @@ import DynamicContainer from "./DynamicContainer";
 
 export default function MainLayout() {
   return (
-    <div id="main-layout">
+    <div id="main-layout" className="flex flex-col h-screen">
       <Header />
-      <DynamicContainer>
-        <Outlet />
-      </DynamicContainer>
+      <div className="flex-grow">
+        <DynamicContainer>
+          <Outlet />
+        </DynamicContainer>
+      </div>
       <Footer />
     </div>
   );
