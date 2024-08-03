@@ -1,4 +1,4 @@
-import SpiderPieChart from "../components/lab/SpiderPieChart";
+// import SpiderPieChart from "../components/lab/SpiderPieChart";
 import { useEffect, useState } from "react";
 
 const data = [
@@ -102,7 +102,7 @@ export default function Top10AICompanies() {
       <p>
         If we analyse by their main services, here is the table with pie chart:
       </p>
-      <SpiderPieChart data={services} />
+      {/* <SpiderPieChart data={services} /> */}
       <table className="table">
         <thead>
           <tr>
