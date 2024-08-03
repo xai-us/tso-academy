@@ -21,7 +21,7 @@ export default function SignupLoginButton() {
           },
         }}
       >
-        Sign up
+        注册
       </Button>
     </Link>
   ) : (
