@@ -1,8 +1,8 @@
 import { useRef } from "react";
 import { getHumanReadableNumber } from "../utils/number";
-import jsPDF from "jspdf";
-import { getPDFHTML } from "../utils/pdf";
-import PDF, { Text, AddPage, Line, Image, Table, Html } from "jspdf-react";
+// import jsPDF from "jspdf";
+// import { getPDFHTML } from "../utils/pdf";
+// import PDF, { Text, AddPage, Line, Image, Table, Html } from "jspdf-react";
 import "jspdf-autotable";
 
 const data = [
