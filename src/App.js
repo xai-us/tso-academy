@@ -6,8 +6,9 @@ import { RouterProvider, createHashRouter } from "react-router-dom";
 import { Children } from "react";
 import MainLayout from "./components/layouts/MainLayout";
 import Home from "./pages/Home";
-import SignUpPage from "./pages/SignUp";
+import SignUpPage from "./pages/auth/sign-up";
 import TsoAIPage from "./pages/TsoAI";
+import { Button, Flowbite } from "flowbite-react";
 
 function DummyComponent() {
   return <div>Dummy</div>;
@@ -19,7 +20,7 @@ const router = createHashRouter([
     element: <MainLayout />,
     children: [
       { path: "/", element: <Home /> },
-      { path: "/signup", element: <SignUpPage /> },
+      { path: "/auth/sign-up", element: <SignUpPage /> },
       {
         path: "/tsoai",
         element: <TsoAIPage />,
@@ -37,8 +38,25 @@ const router = createHashRouter([
   },
 ]);
 
+export const customTheme = {
+  button: {
+    color: {
+      info: "text-white bg-gray-800 border border-transparent hover:bg-gray-900 focus:ring-4 focus:ring-gray-300 disabled:hover:bg-gray-800 dark:bg-gray-800 dark:hover:bg-gray-700 dark:focus:ring-gray-800 dark:border-gray-700 dark:disabled:hover:bg-gray-800",
+    },
+  },
+  spinner: {
+    color: {
+      info: "fill-gray-900",
+    },
+  },
+};
+
 function App() {
-  return <RouterProvider router={router} />;
+  return (
+    <Flowbite theme={customTheme}>
+      <RouterProvider router={router} />
+    </Flowbite>
+  );
 }
 
 export default App;
