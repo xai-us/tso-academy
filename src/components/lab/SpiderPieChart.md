@@ -1,3 +1,6 @@
+# SpiderPieChart
+
+```js
 import { Pie } from "@ant-design/plots";
 
 export default function SpiderPieChart({ data }) {
@@ -24,3 +27,4 @@ export default function SpiderPieChart({ data }) {
   };
   return <Pie {...config} />;
 }
+```
