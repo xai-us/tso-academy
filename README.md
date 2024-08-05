@@ -1,4 +1,4 @@
-# learn-ai
+# TSO AI 学院
 
 My jorney to the AI industry.
 
